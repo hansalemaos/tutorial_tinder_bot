@@ -1,4 +1,4 @@
-# pip install locate-pixelcolor-c cv2imshow get-consecutive-filename adbkit kthread-sleep deepcopyall a-pandas-ex_apply-ignore-exceptions
+# pip install locate-pixelcolor-c cv2imshow get-consecutive-filename adbkit kthread-sleep deepcopyall a-pandas-ex_apply-ignore-exceptions openpyxl
 
 import os
 import random
